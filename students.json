@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Prasad V. Potluri Siddhartha Institute Of Technology",
+        "total_students": 1200,
+        "completed_students": 850
+    },
+    {
+        "name": "Velagapudi Ramakrishna Siddhartha Engineering College",
+        "total_students": 1500,
+        "completed_students": 1100
+    },
+    {
+        "name": "K L E F Deemed To Be University",
+        "total_students": 2000,
+        "completed_students": 1700
+    },
+    {
+        "name": "SRM University AP",
+        "total_students": 1800,
+        "completed_students": 1400
+    },
+    {
+        "name": "VIT-AP University",
+        "total_students": 2200,
+        "completed_students": 1800
+    },
+    {
+        "name": "Dhanekula Institute of Engineering & Technology",
+        "total_students": 1000,
+        "completed_students": 700
+    },
+    {
+        "name": "Vignan's Foundation for Science, Technology & Research",
+        "total_students": 2500,
+        "completed_students": 2100
+    },
+    {
+        "name": "Vishnu Institute of Technology",
+        "total_students": 1300,
+        "completed_students": 1000
+    },
+    {
+        "name": "Gayatri Vidya Parishad College of Engineering",
+        "total_students": 1600,
+        "completed_students": 1300
+    },
+    {
+        "name": "Anil Neerukonda Institute of Technology and Sciences",
+        "total_students": 1400,
+        "completed_students": 1100
+    },
+    {
+        "name": " Vasireddy Venkatadri Institute of Technology",
+        "total_students": 1230,
+        "completed_students": 890
+    }
+]
